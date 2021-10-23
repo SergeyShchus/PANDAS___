@@ -5,6 +5,7 @@ Pandas - популярна бібліотека Python, що застосову
 
 
 1 «Библиотека pandas и анализ данных»
+
 2 [«Запуск библиотеки pandas»](https://github.com/SergeyShchus/PANDAS___/blob/main/Notebooks/02_%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8%20pandas.ipynb)
 
 [3 «Представление одномерных данных с помощью объекта Series»](https://github.com/SergeyShchus/PANDAS___/blob/main/Notebooks/03_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0%20Series.ipynb)
